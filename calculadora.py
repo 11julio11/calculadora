@@ -11,7 +11,7 @@ number2 = int(input("ingrese el segundo numero: "))
 #colocamos eleccion  de la operacion a realizar en un bucle while
 
 eleccion = 0
-#colocamos !=6  para seguir realizan las  operaciones hasta que se ingrese 6
+#colocamos !=6  para seguir realizan las  operaciones hasta que se ingrese 6u
 while eleccion !=6:
     print("""
     Indique la operacion a realizar
